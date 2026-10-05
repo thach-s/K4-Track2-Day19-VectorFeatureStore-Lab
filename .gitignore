@@ -18,6 +18,7 @@ data/corpus_vn.jsonl
 data/golden_set.jsonl
 data/qdrant_storage/
 .feast/
+*.ses
 app/feast_repo/data/
 app/feast_repo/registry.db
 app/feast_repo/online_store.db
